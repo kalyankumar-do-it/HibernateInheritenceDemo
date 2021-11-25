@@ -1,0 +1,2 @@
+# HibernateInheritenceDemo
+ Hibernate Inheritence Demo
